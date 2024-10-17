@@ -1,0 +1,52 @@
+# Goals for Week 4
+
+`# 1. Team Report
+<status update for TA here>
+
+<agenda for team meeting here>
+
+### Last Week's Goals
+
+### Progress and issues
+
+### Next Week's Goals
+
+# 2. Individual Contributions
+## Emily Ngo
+### Last Week's Goals
+- Finish the front-end mockup for the chatbot
+
+### Progress and issues
+- Finished the front-end mockup for the chatbot
+
+### Next Week's Goals
+- Write the frontend code for the chatbot, just the chatting portion and UI
+
+## Person X
+### Last Week's Goals
+
+### Progress and issues
+
+### Next Week's Goals
+
+## Person X
+### Last Week's Goals
+
+### Progress and issues
+
+### Next Week's Goals
+
+## Person X
+### Last Week's Goals
+
+### Progress and issues
+
+### Next Week's Goals
+
+## Person X
+### Last Week's Goals
+
+### Progress and issues
+
+### Next Week's Goals`
+
