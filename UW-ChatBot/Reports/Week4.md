@@ -1,6 +1,6 @@
 # Goals for Week 4
 
-`# 1. Team Report
+# 1. Team Report
 <status update for TA here>
 
 <agenda for team meeting here>
